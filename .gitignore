@@ -16,3 +16,8 @@ doc/api/
 *.iml
 pubspec.lock
 .DS_Store
+/.flutter-plugins-dependencies
+/.flutter-plugins
+/.ios/
+/.fvm/
+/.android/
